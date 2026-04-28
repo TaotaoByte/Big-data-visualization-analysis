@@ -2,7 +2,9 @@
 ![Python](https://img.shields.io/badge/Python-3.8%2B-blue)
 ![Django](https://img.shields.io/badge/Django-4.2%2B-green)
 ![License](https://img.shields.io/badge/License-MIT-yellow)
-#项目新地址
+
+
+## 项目新地址
 项目移植到了https://github.com/TaotaoByte/weather_bigdata_admin
 
 ## 项目介绍
