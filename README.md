@@ -2,6 +2,8 @@
 ![Python](https://img.shields.io/badge/Python-3.8%2B-blue)
 ![Django](https://img.shields.io/badge/Django-4.2%2B-green)
 ![License](https://img.shields.io/badge/License-MIT-yellow)
+#项目新地址
+项目移植到了https://github.com/TaotaoByte/weather_bigdata_admin
 
 ## 项目介绍
 本项目是基于 Python Django 框架开发的**天气大数据管理系统**，聚焦解决气象数据管理效率低、可视化程度不足、海量数据查询分析繁琐等行业痛点，实现气象数据的全生命周期管理（录入、存储、查询、分析、可视化），为气象数据运维与分析决策提供一站式支撑。
